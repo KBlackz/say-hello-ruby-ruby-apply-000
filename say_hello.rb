@@ -1,3 +1,1 @@
-say_hello.rb
-puts "Say Hello "
-end
+say_hello.rb = "say_hello"
