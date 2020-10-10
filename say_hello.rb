@@ -1,2 +1,0 @@
-def say_hello.RUBY_VERSION
-end
