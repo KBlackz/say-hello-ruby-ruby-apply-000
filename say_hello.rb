@@ -1,6 +1,2 @@
-require_relative 
-  def say_hello.rb
-    
-  end
-  
-end  
+say_hello.rb
+puts "Say Hello "
